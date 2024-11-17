@@ -17,6 +17,6 @@ class TileData {
 
   TileData(
       {required this.icon,
-      required this.title,
-      required this.value});  
+        required this.title,
+        required this.value});
 }
